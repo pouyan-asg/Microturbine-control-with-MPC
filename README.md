@@ -1,4 +1,4 @@
-# Modeling-and-modern-control-of-distributed-generation-systems-based-on-microturbine-and-storage-in-i
+# Modeling-and-modern-control-of-distributed-generation-systems-based-on-microturbine-and-storage-in-intelligent-operation-of-distribution network
 This repository is my Final thesis in Master. In this project, various types of interface converters for controlling a Micro-Turbine Generation (MTG) system is tested. Also, in order to achieve desirable output voltage and current, Model Predictive Control (MPC) is tested in MTG configuration. The results showed that MTG with MPC has higher flexibility and its performance improved.
 
 
