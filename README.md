@@ -32,4 +32,4 @@ The MPC folder consists of files in which this method is used for controlling MT
 Notes
 -
 - All simulation files are created already (2014-2016) and after that I just published papers, So mainly I had no time to update them. Before posting this repository, I tested all of them and files works without error. If you encounter any error especially in MPC files, tell me in the issue section.
-- For more information about this project and papers related to it, please visit the project page in ResearchGate: https://www.researchgate.net/project/Modeling-and-modern-control-of-distributed-generation-systems-based-on-microturbine-and-storage-in-intelligent-operation-of-distribution-network
+- For more information about this project and papers related to it, please visit the [project page in ResearchGate](https://www.researchgate.net/project/Modeling-and-modern-control-of-distributed-generation-systems-based-on-microturbine-and-storage-in-intelligent-operation-of-distribution-network) 
