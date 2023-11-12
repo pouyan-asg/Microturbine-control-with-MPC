@@ -4,12 +4,12 @@
 Abstract: 
 -
 
-This repository is the Final thesis for my Master degree at the University of Zanjan. In this project, I tested various interface converters (i. e. AC-DC-AC and AC-AC) for a Micro-Turbine Generation (MTG) system with and without storage. The main challenge of MTG is its high-frequency output voltage and current, so accurate control of interface converters plays a vital role. In order to achieve desirable output voltage and current, Model Predictive Control (MPC) is tested in MTG configuration (i. e. inverter side). The results showed that MTG with MPC has higher flexibility and its performance improved significantly. Moreover, for providing secure power on the demand side, energy storage is considered to save excessive amounts of power.
+This repository is the final thesis for my Master degree at the University of Zanjan. In this project, I tested various interface converters (i.e., AC-DC-AC and AC-AC) for a Micro-Turbine Generation (MTG) system with and without storage. The main challenge of MTG is its high-frequency output voltage and current, so accurate control of interface converters plays a vital role. In order to achieve desirable output voltage and current, Model Predictive Control (MPC) is tested in MTG configuration (i.e., inverter side). The results showed that MTG with MPC has higher flexibility, and its performance improved significantly. Moreover, for providing secure power on the demand side, energy storage is considered to save excessive amounts of power.
 
 
 Novelty of project
 -
-The main novelties of this project can be summarized in this points:
+The main novelties of this project can be summarized in these points:
 - a comprehensive analysis of MTG with different interface converters and the role of storage in such a system.
 - applying MPC to MTG's system for controlling interface converters as a new approach.
 - applying MPC to MT for controlling fuel and speed as a novel method.
@@ -23,13 +23,10 @@ Microturbine (MT) generation (MTG) system is a relatively new Distributed Genera
 
 Repository
 -
-All the simulations are carried out in MATLAB software. In the repository, you can find three different folders that each one consisting of various Simulink files. 
-AC-DC-AC folder means the MTG is connected to load or grid through a double conversion interface. In such interfaces, at first high-frequency AC voltage is converted to DC voltage and then through an inverter, it is converted to AC voltage with 50/60 Hz frequency and suitable amplitude. In this folder, the rectifier may be uncontrolled (diode rectifier folder) or controlled (thyristor rectifier folder). Various scenarios are tests for each type including off-grid, on-grid, both modes and with/without storage.
-in AC-AC mode, the simulations are carried out just with a cyclo converter. the results of AC-AC is not as good as double conversion due to high-frequency voltage from the MTG side. There are some papers about working on Matrix converter and you can read and clone them.
-The MPC folder consists of files in which this method is used for controlling MTG's inverter in various situations. Last but not least, the file with storage, RRC or filter postfixes means simulation with storage and new RRC filter, respectively. 
+All the simulations are carried out in MATLAB software. In the repository, you can find three different folders, each consisting of various Simulink files.The AC-DC-AC folder means the MTG is connected to the load or grid through a double conversion interface. In such interfaces, at first, high-frequency AC voltage is converted to DC voltage, and then, through an inverter, it is converted to AC voltage with a 50/60 Hz frequency and suitable amplitude. In this folder, the rectifier may be uncontrolled (diode rectifier folder) or controlled (thyristor rectifier folder). Various scenarios are tested for each type, including off-grid, on-grid, both modes, and with or without storage.In AC-AC mode, the simulations are carried out with a cyclo converter. The results of AC-AC are not as good as double conversion due to the high-frequency voltage from the MTG side. There are some papers about working on a matrix converter, and you can read and clone them.The MPC folder consists of files in which this method is used for controlling MTG's inverter in various situations. Last but not least, the file with storage, RRC, or filter postfixes means simulation with storage and a new RRC filter, respectively. 
 
 
 Notes
 -
-- All simulation files are created already (2014-2016) and after that I just published papers, So mainly I had no time to update them. Before posting this repository, I tested all of them and files works without error. If you encounter any error especially in MPC files, tell me in the issue section.
-- For more information about this project and papers related to it, please visit the [project page in ResearchGate](https://www.researchgate.net/project/Modeling-and-modern-control-of-distributed-generation-systems-based-on-microturbine-and-storage-in-intelligent-operation-of-distribution-network) 
+- All simulation files were already created (2014–2016), and after that, I just published papers. Unfortunately, I had no time to update them. Before posting this repository, I tested all of them, and the files worked without error. If you encounter any errors, especially in MPC files, tell me in the issue section.
+- For more information about this project and papers, please visit the [project page in ResearchGate](https://www.researchgate.net/project/Modeling-and-modern-control-of-distributed-generation-systems-based-on-microturbine-and-storage-in-intelligent-operation-of-distribution-network) 
