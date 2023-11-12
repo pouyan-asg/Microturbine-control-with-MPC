@@ -28,5 +28,5 @@ All the simulations are carried out in MATLAB software. In the repository, you c
 
 Notes
 -
-- All simulation files were already created (2014–2016), and after that, I just published papers. Unfortunately, I had no time to update them. Before posting this repository, I tested all of them, and the files worked without error. If you encounter any errors, especially in MPC files, tell me in the issue section.
+- All simulation files were already created (2014–2016), and after that, I just published papers. Unfortunately, I had no time to update them. Before posting this repository, I tested all of them, and the files worked without error. If you encounter any errors, especially in MPC files, let me know in the issue section.
 - For more information about this project and papers, please visit the [project page in ResearchGate](https://www.researchgate.net/project/Modeling-and-modern-control-of-distributed-generation-systems-based-on-microturbine-and-storage-in-intelligent-operation-of-distribution-network) 
