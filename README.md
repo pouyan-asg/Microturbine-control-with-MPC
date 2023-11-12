@@ -1,4 +1,4 @@
-# Modeling and modern control of distributed generation systems based on microturbine and storage in intelligent operation of distribution network
+# Modeling and modern control of distributed generation systems based on microturbines and storage in the intelligent operation of distribution networks
 
 
 Abstract: 
@@ -18,7 +18,7 @@ The main novelties of this project can be summarized in these points:
 What is Microturbine Generation System?
 -
 
-Microturbine (MT) generation (MTG) system is a relatively new Distributed Generation (DG) and fast growing technology that is appropriate for small scale generation because of compact size, quick start, long lifetime, reliability and durability, low initial and maintenance costs, low emission level, and ability of operation with alternative fuels including natural gas, biogas and diesel. The MTG is indeed a small gas turbine that operates based on Brayton thermodynamic cycle. Smaller size and higher power density are desirable factors to use MT in any low power demand areas instead of the conventional gas turbines. The MT generates power within the range of 25-1000 kW and its efficiency is around 20-30%, where up to 80% can also be achieved by Combined Heat and Power (CHP) system. These generation systems are used for a wide range of applications such as peak shaving, CHP, remote power, premium power, transportation system, resource recovery, baseload power and stand by services. For more information read our chapter: https://www.sciencedirect.com/science/article/pii/B9780128042083000042
+Microturbine (MT) generation (MTG) system is a relatively new Distributed Generation (DG) and fast-growing technology that is appropriate for small-scale generation because of its compact size, quick start, long lifetime, reliability and durability, low initial and maintenance costs, low emission level, and ability to operate with alternative fuels, including natural gas, biogas, and diesel. The MTG is indeed a small gas turbine that operates based on the Brayton thermodynamic cycle. Smaller size and higher power density are desirable reasons to use MT in low-power demand areas instead of conventional gas turbines. The MT generates power within the range of 25–1000 kW, and its efficiency is around 20–30%, where up to 80% can also be achieved by Combined Heat and Power (CHP) system. These generation systems are used for a wide range of applications, such as peak shaving, CHP, remote power, premium power, transportation systems, resource recovery, baseload power, and standby services. For more information, read our chapter: https://www.sciencedirect.com/science/article/pii/B9780128042083000042
 
 
 Repository
