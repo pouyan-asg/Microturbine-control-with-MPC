@@ -13,7 +13,7 @@ Novelty of project
 The main novelties of this project can be summarized in these points:
 - a comprehensive analysis of MTG with different interface converters and the role of storage in such a system.
 - applying MPC to MTG's system for controlling interface converters as a new approach.
-- applying MPC to MT for controlling fuel and speed as a novel method.
+- applying MPC to MTG for controlling fuel and speed as a novel method.
 - using a new filter configuration (called Remover Ripple Circuit (RRC)) on the MTG's output for obtaining sinusoidal voltage and current. 
 
 What is Microturbine Generation System?
