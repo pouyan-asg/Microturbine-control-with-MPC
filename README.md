@@ -4,7 +4,8 @@
 Abstract: 
 -
 
-This repository is the final thesis for my Master degree at the University of Zanjan. In this project, I tested various interface converters (i.e., AC-DC-AC and AC-AC) for a Micro-Turbine Generation (MTG) system with and without storage. The main challenge of MTG is its high-frequency output voltage and current, so accurate control of interface converters plays a vital role. In order to achieve desirable output voltage and current, Model Predictive Control (MPC) is tested in MTG configuration (i.e., inverter side). The results showed that MTG with MPC has higher flexibility, and its performance improved significantly. Moreover, for providing secure power on the demand side, energy storage is considered to save excessive amounts of power.
+This repository contains all MATLAB simulations (Simulink) of my final master thesis at the University of Zanjan. Since micro-turbine generation (MTG) systems generate high-frequency voltages and currents, precise control of interface converters plays a crucial role. In this project, I tested various interface converters (i.e., AC-DC-AC and AC-AC) with/without battery storage, and two main types of control methods were tested, including traditional ones and Model Predictive Control (MPC). The results showed that MTG with MPC has higher flexibility, and its performance improved significantly. Moreover, for providing secure power on the demand side, energy storage is considered to save excessive amounts of power.
+[For reading my papers, there is a link at the end of this page.].
 
 
 Novelty of project
