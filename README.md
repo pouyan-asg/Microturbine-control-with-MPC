@@ -1,4 +1,4 @@
-# Modeling and modern control of distributed generation systems based on microturbines and storage in the intelligent operation of distribution networks
+# Model Predictive Control of microturbine-based distributed generation systems in the intelligent operation of distribution networks
 
 
 Abstract: 
